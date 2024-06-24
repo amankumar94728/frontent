@@ -1,0 +1,31 @@
+{
+    "items": [
+        {
+            "title": "Item 1",
+            "description": "Description for item 1",
+            "details": {
+                "author": "Author 1",
+                "date": "2024-06-24",
+                "moreInfo": "Additional information about Item 1."
+            }
+        },
+        {
+            "title": "Item 2",
+            "description": "Description for item 2",
+            "details": {
+                "author": "Author 2",
+                "date": "2024-06-23",
+                "moreInfo": "Additional information about Item 2."
+            }
+        },
+        {
+            "title": "Item 3",
+            "description": "Description for item 3",
+            "details": {
+                "author": "Author 3",
+                "date": "2024-06-22",
+                "moreInfo": "Additional information about Item 3."
+            }
+        }
+    ]
+}
